@@ -1,0 +1,80 @@
+# depslib dependency file v1.0
+1523529588 source:e:\study\semester 4\std\tubes\tubes\dokter.cpp
+
+1524762729 source:e:\study\semester 4\std\tubes\tubes\main.cpp
+	<iostream>
+
+1524764461 source:e:\study\semester 4\std\tubes\tubes\obat.cpp
+	"Obat.h"
+
+1524735262 e:\study\semester 4\std\tubes\tubes\obat.h
+	<iostream>
+	<stdlib.h>
+	<conio.h>
+	<string>
+
+1524803783 source:e:\study\semester 4\std\tubes\tubes\relasi.cpp
+	"Relasi.h"
+
+1524803805 source:e:\study\semester 4\std\tubes\tubes\pasien.cpp
+	"Pasien.h"
+
+1524767046 e:\study\semester 4\std\tubes\tubes\pasien.h
+	<iostream>
+	<stdlib.h>
+	<conio.h>
+	<string>
+
+1524285142 e:\study\semester 4\std\tubes\tubes\relasi.h
+	"Pasien.h"
+	"Obat.h"
+	<stdlib.h>
+	<conio.h>
+	<string>
+	<iostream>
+
+1524880905 source:c:\users\user\desktop\tubes\obat.cpp
+	"Obat.h"
+
+1524883969 c:\users\user\desktop\tubes\obat.h
+	<iostream>
+	<stdlib.h>
+	<conio.h>
+	<string>
+
+1524883969 source:c:\users\user\desktop\tubes\pasien.cpp
+	"Pasien.h"
+
+1524883969 c:\users\user\desktop\tubes\pasien.h
+	<iostream>
+	<stdlib.h>
+	<conio.h>
+	<string>
+
+1524882962 source:c:\users\user\desktop\tubes\relasi.cpp
+	"Relasi.h"
+
+1524884000 c:\users\user\desktop\tubes\relasi.h
+	"Pasien.h"
+	"Obat.h"
+	<stdlib.h>
+	<conio.h>
+	<string>
+	<iostream>
+
+1524882533 source:c:\users\user\desktop\tubes\main.cpp
+	<iostream>
+	"Pasien.h"
+	"Obat.h"
+	"Relasi.h"
+	"case_functional.h"
+
+1524883658 source:c:\users\user\desktop\tubes\case_functional.cpp
+	"case_functional.h"
+	"Pasien.h"
+	"Obat.h"
+	"Relasi.h"
+
+1524853919 c:\users\user\desktop\tubes\case_functional.h
+	"Relasi.h"
+
